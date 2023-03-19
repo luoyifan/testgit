@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T15:41:31.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CF92Xd-46jNOSeW7tZyc" version="21.0.8" type="github"><diagram name="第 1 页" id="RGszfC1oz2rYYeR4ST6M">jZJNT4QwEIZ/TY8mQCO6R2VxPYjZhBizx4aOtKZQ0i0L+OstMuUjm008debpO9PO2xKaVP3BsEZkmoMiUcB7QvckisL7OHLLSIaJPEa7CZRGchQtIJc/gDBA2koO543Qaq2sbLaw0HUNhd0wZozutrIvrbanNqyEK5AXTF3TT8mt8FM8LPwVZCn8yWGM81XMi3GSs2BcdytEU0ITo7WdoqpPQI3meV+mupcbu/PFDNT2PwXinR8+svztlDXp/vhdPp0uxzvscmGqxYHxsnbwDhjd1hzGJgGhz52QFvKGFeNu597cMWEr5bLQhdgOjIX+5j3DeXr3bUBXYM3gJFhAvWH4Y6Id5t3if+g1YuV9jIzhk5dz68UVF6AxPl0e4G9v9Y1p+gs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-19T15:42:45.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3O4V7BgKU4iPkD-c9PTh" version="21.0.8" type="github">
+  <diagram name="第 1 页" id="RGszfC1oz2rYYeR4ST6M">
+    <mxGraphModel dx="1562" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hNdGUMSLYMpEDPjgAYvP-1" value="中通服1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
